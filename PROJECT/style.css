@@ -1,0 +1,147 @@
+body {
+    height: 100%;
+    font-family: "Times New Roman", Times, serif;
+    color:white;
+    background: rgb(3, 3, 7);
+text-align: center;
+}
+
+
+#logo {
+  float: left; 
+  font-size: 180%;
+  margin-left: 0px;
+  color: rgb(207, 9, 9);
+}
+
+
+.container-fluid{
+    background-position-x: center;
+}
+
+
+#name{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+#hero-image {
+    background: 
+     url('https://vignette.wikia.nocookie.net/all-about-music/images/5/5b/Pearl_jam_logo.jpg/revision/latest/scale-to-width-down/340?cb=20140826130837&path-prefix=de') no-repeat center center;
+    width: 100%;
+    height: 600px;
+    
+  }
+
+
+.welcome {
+font-family: serif;
+font-weight: bold;
+
+
+
+}
+
+
+.photo{
+
+  max-width: 100%;
+  height: auto;
+}
+
+
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+.container_nav li{
+
+color: white;
+text-decoration: none;
+display: inline; 
+position: flex;
+font-size: 17px;
+}
+
+#name{
+    display: flex;
+    display: inline; 
+    position: flex;
+}
+
+
+
+
+.navbar li{
+text-align: right;
+float: right;
+margin-right: 30px;
+text-decoration: none;
+}
+
+
+  .navbar-brand h2{
+    text-align: center;
+    color:black;
+  }
+
+
+  .navbar-text {
+    padding:0%;
+    color:black;
+    text-align: right;
+  }
+
+.btn btn-primary btn-block{
+ margin-top: 8px;
+  margin-right: 16px;
+  width: 30px;
+  height: 30px;
+  background-color: red;
+}
+
+.rounded-circle {
+    border-radius: 65%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #f8f4f4;
+}
+
